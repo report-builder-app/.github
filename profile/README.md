@@ -9,7 +9,7 @@
 ## DSL
 
 ```groovy
-eport("CustomerReport") {
+report("CustomerReport") {
     // Общие параметры отчёта
     title = "Customer List"
     pageFormat = PageFormat.A4
